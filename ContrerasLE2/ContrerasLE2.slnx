@@ -1,8 +1,0 @@
-<Solution>
-  <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
-  <Project Path="BlogTestUI/BlogTestUI.csproj" />
-  <Project Path="ContrerasBlogDB/ContrerasBlogDB.sqlproj" Id="0ef61a7a-04f7-4ca4-9dcf-fd263d6de019">
-    <Build />
-    <Deploy />
-  </Project>
-</Solution>
