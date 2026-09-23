@@ -55,5 +55,22 @@ namespace BlogDataLibrary
 
             return SqlDataAccess.SaveData(sql, parameters);
         }
+
+        public static List<ListPostModel> GetAllPosts()
+        {
+            string sql = @"SELECT p.Id,
+                          p.Title,
+                          p.Body,
+                          p.DateCreated,
+                          u.UserName
+                   FROM dbo.Posts p
+                   INNER JOIN dbo.Users u
+                       ON p.UserId = u.Id
+                   ORDER BY p.DateCreated DESC;";
+
+            return SqlDataAccess.LoadData<ListPostModel, dynamic>(
+                sql,
+                new { });
+        }
     }
 }

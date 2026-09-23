@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B30AD5B-BCF6-3DD1-5237-03487D5BA056}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B30AD5B-BCF6-3DD1-5237-03487D5BA056}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B30AD5B-BCF6-3DD1-5237-03487D5BA056}|BlogTestUI\\BlogTestUI.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B30AD5B-BCF6-3DD1-5237-03487D5BA056}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\postdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\postdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\models\\listpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\models\\listpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\models\\listpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\models\\listpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EAF8C871-05A4-8221-A45F-DF020B51D139}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\paul\\source\\repos\\contrerasle2\\blogdatalibrary\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,19 +51,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PostData.cs",
-              "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\PostData.cs",
-              "RelativeDocumentMoniker": "BlogDataLibrary\\PostData.cs",
-              "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\PostData.cs",
-              "RelativeToolTip": "BlogDataLibrary\\PostData.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogTestUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogTestUI\\Program.cs",
+              "RelativeToolTip": "BlogTestUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T16:55:35.877Z",
+              "WhenOpened": "2026-09-22T00:29:10.789Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogTestUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogTestUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogTestUI\\appsettings.json",
+              "RelativeToolTip": "BlogTestUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-22T01:00:15.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostData.cs",
+              "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\PostData.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\PostData.cs",
+              "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\PostData.cs",
+              "RelativeToolTip": "BlogDataLibrary\\PostData.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA6wEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T16:55:35.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\UserData.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\UserData.cs",
@@ -63,25 +96,23 @@
               "RelativeToolTip": "BlogDataLibrary\\UserData.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwDgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T16:06:32.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T16:06:32.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ListPostModel.cs",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\Models\\ListPostModel.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\Models\\ListPostModel.cs",
               "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\Models\\ListPostModel.cs",
               "RelativeToolTip": "BlogDataLibrary\\Models\\ListPostModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T16:02:53.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T16:02:53.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PostModel.cs",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\Models\\PostModel.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\Models\\PostModel.cs",
@@ -89,12 +120,11 @@
               "RelativeToolTip": "BlogDataLibrary\\Models\\PostModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T15:56:21.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:56:21.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\Models\\UserModel.cs",
@@ -102,25 +132,23 @@
               "RelativeToolTip": "BlogDataLibrary\\Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T15:51:52.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:51:52.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SqlDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\SqlDataAccess.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\SqlDataAccess.cs",
               "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\SqlDataAccess.cs",
               "RelativeToolTip": "BlogDataLibrary\\SqlDataAccess.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T15:50:28.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:50:28.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE2\\BlogDataLibrary\\User.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\User.cs",
@@ -128,8 +156,7 @@
               "RelativeToolTip": "BlogDataLibrary\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T15:48:27.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T15:48:27.943Z"
             }
           ]
         }
