@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BlogDataLibrary",
     "\\BlogDataLibrary\\Models",
-    "\\BlogTestUI"
+    "\\ContrerasBlogDB\\Stored Procedures"
   ],
-  "SelectedNode": "\\BlogTestUI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
