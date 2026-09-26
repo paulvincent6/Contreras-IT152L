@@ -1,9 +1,11 @@
 ﻿using BlogDataLibrary.Database;
 using BlogDataLibrary.Models;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace BlogDataLibrary.Data
 {
-    public class SqlData
+    public class SqlData : ISqlData
     {
         private ISqlDataAccess _db;
         private const string connectionStringName = "SqlDb";
@@ -38,6 +40,38 @@ namespace BlogDataLibrary.Data
             _db.SaveData<dynamic>(
                 "dbo.spPosts_Insert",
                 new { post.UserId, post.Title, post.Body, post.DateCreated },
+                connectionStringName,
+                true);
+        }
+
+        public List<ListPostModel> ListPosts()
+        {
+            return _db.LoadData<ListPostModel, dynamic>(
+                "dbo.spPosts_List",
+                new { },
+                connectionStringName,
+                true).ToList();
+        }
+
+        public ListPostModel ShowPostDetails(int id)
+        {
+            return _db.LoadData<ListPostModel, dynamic>(
+                "dbo.spPosts_Details",
+                new { id },
+                connectionStringName,
+                true).FirstOrDefault();
+        }
+
+        public void UpdatePost(PostModel post)
+        {
+            _db.SaveData(
+                "dbo.spPosts_Update",
+                new
+                {
+                    post.Id,
+                    post.Title,
+                    post.Body
+                },
                 connectionStringName,
                 true);
         }
