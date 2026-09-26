@@ -50,10 +50,10 @@ namespace BlogDataLibrary.Database
             string connectionStringName,
             bool isStoredProcedure)
         {
-            CommandType commandType = CommandType.Text;
-
             string connectionString =
                 _config.GetConnectionString(connectionStringName);
+
+            CommandType commandType = CommandType.Text;
 
             if (isStoredProcedure)
             {
