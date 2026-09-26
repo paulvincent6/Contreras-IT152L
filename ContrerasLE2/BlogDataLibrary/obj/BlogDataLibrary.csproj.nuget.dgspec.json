@@ -58,7 +58,7 @@
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[7.1.0, )"
+              "version": "[5.2.3, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
