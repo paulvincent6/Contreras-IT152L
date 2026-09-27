@@ -1,0 +1,12 @@
+C:\Users\Paul\source\repos\ContrerasLE2\ContrerasBlogDB\bin\Debug\ContrerasBlogDB.dacpac
+C:\Users\Paul\source\repos\ContrerasLE2\ContrerasBlogDB\bin\Debug\ContrerasBlogDB.dll
+C:\Users\Paul\source\repos\ContrerasLE2\ContrerasBlogDB\bin\Debug\ContrerasBlogDB.pdb
+C:\Users\Paul\source\repos\ContrerasLE2\ContrerasBlogDB\obj\Debug\ContrerasBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Paul\source\repos\ContrerasLE2\ContrerasBlogDB\obj\Debug\ContrerasBlogDB.dll
+C:\Users\Paul\source\repos\ContrerasLE2\ContrerasBlogDB\obj\Debug\ContrerasBlogDB.pdb
+C:\Users\Paul\source\repos\ContrerasLE3\ContrerasBlogDB\bin\Debug\ContrerasBlogDB.dacpac
+C:\Users\Paul\source\repos\ContrerasLE3\ContrerasBlogDB\bin\Debug\ContrerasBlogDB.dll
+C:\Users\Paul\source\repos\ContrerasLE3\ContrerasBlogDB\bin\Debug\ContrerasBlogDB.pdb
+C:\Users\Paul\source\repos\ContrerasLE3\ContrerasBlogDB\obj\Debug\ContrerasBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Paul\source\repos\ContrerasLE3\ContrerasBlogDB\obj\Debug\ContrerasBlogDB.dll
+C:\Users\Paul\source\repos\ContrerasLE3\ContrerasBlogDB\obj\Debug\ContrerasBlogDB.pdb
