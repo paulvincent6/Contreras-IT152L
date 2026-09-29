@@ -26,5 +26,30 @@ namespace BlogAPI.Controllers
         {
             return _db.ShowPostDetails(id);
         }
+
+        private int GetCurrentUserId()
+        {
+            var userId = User.Claims
+                .FirstOrDefault(c => c.Type == System.Security.Claims.ClaimTypes.NameIdentifier)?
+                .Value;
+
+            return int.Parse(userId);
+        }
+
+        [HttpPost]
+        public IActionResult AddPost(PostForm post)
+        {
+            var newPost = new PostModel
+            {
+                UserId = GetCurrentUserId(),
+                Title = post.Title,
+                Body = post.Body,
+                DateCreated = DateTime.Now
+            };
+
+            _db.AddPost(newPost);
+
+            return Ok();
+        }
     }
 }

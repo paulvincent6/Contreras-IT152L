@@ -53,6 +53,22 @@
   },
   {
     "ContainingType": "BlogAPI.Controllers.PostController",
+    "Method": "AddPost",
+    "RelativePath": "api/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "post",
+        "Type": "BlogDataLibrary.Models.PostForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.PostController",
     "Method": "GetPost",
     "RelativePath": "api/Post/{id}",
     "HttpMethod": "GET",
