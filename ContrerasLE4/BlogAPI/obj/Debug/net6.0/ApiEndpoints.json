@@ -14,5 +14,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.LoginController",
+    "Method": "Register",
+    "RelativePath": "api/Login/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "BlogDataLibrary.Models.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

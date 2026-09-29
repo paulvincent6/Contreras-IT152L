@@ -61,5 +61,17 @@ namespace BlogAPI.Controllers
 
             return Ok(token);
         }
+
+        [HttpPost("Register")]
+        public IActionResult Register(UserModel user)
+        {
+            _db.Register(
+                user.UserName,
+                user.FirstName,
+                user.LastName,
+                user.Password);
+
+            return Ok();
+        }
     }
 }

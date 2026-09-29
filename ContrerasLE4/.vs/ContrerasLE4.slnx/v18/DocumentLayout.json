@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Paul\\source\\repos\\ContrerasLE4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E19DAC9-F8DA-40BF-88F8-1E8DA0B20971}|BlogAPI\\BlogAPI.csproj|c:\\users\\paul\\source\\repos\\contrerasle4\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0E19DAC9-F8DA-40BF-88F8-1E8DA0B20971}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E19DAC9-F8DA-40BF-88F8-1E8DA0B20971}|BlogAPI\\BlogAPI.csproj|c:\\users\\paul\\source\\repos\\contrerasle4\\blogapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E19DAC9-F8DA-40BF-88F8-1E8DA0B20971}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{0E19DAC9-F8DA-40BF-88F8-1E8DA0B20971}|BlogAPI\\BlogAPI.csproj|c:\\users\\paul\\source\\repos\\contrerasle4\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E19DAC9-F8DA-40BF-88F8-1E8DA0B20971}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,6 +26,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-29T11:10:45.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Paul\\source\\repos\\ContrerasLE4\\BlogAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BlogAPI\\appsettings.json",
@@ -44,18 +54,10 @@
               "RelativeDocumentMoniker": "BlogAPI\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Paul\\source\\repos\\ContrerasLE4\\BlogAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "BlogAPI\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAawCwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0cAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T10:34:44.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Users.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-09-29T10:33:19.163Z"
+              "WhenOpened": "2026-09-29T10:34:44.619Z",
+              "EditorCaption": ""
             }
           ]
         }
