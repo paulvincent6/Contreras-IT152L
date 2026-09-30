@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="BlogAPI/BlogAPI.csproj" Id="0e19dac9-f8da-40bf-88f8-1e8da0b20971" />
   <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
   <Project Path="BlogTestUI/BlogTestUI.csproj" />
   <Project Path="ContrerasBlogDB/ContrerasBlogDB.sqlproj" Id="0ef61a7a-04f7-4ca4-9dcf-fd263d6de019">

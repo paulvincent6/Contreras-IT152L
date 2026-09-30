@@ -9,5 +9,6 @@ namespace BlogDataLibrary.Data
         List<ListPostModel> ListPosts();
         void Register(string username, string firstName, string lastName, string password);
         ListPostModel ShowPostDetails(int id);
+        void UpdatePost(PostModel post);
     }
 }
