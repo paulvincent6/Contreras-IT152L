@@ -51,5 +51,22 @@ namespace BlogAPI.Controllers
 
             return Ok();
         }
+
+        //trying to add update post
+
+        [HttpPut("{id}")]
+        public IActionResult UpdatePost(int id, PostForm post)
+        {
+            var updatedPost = new PostModel
+            {
+                Id = id,
+                Title = post.Title,
+                Body = post.Body
+            };
+
+            _db.UpdatePost(updatedPost);
+
+            return Ok();
+        }
     }
 }

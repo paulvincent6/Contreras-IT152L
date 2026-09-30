@@ -92,5 +92,26 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.PostController",
+    "Method": "UpdatePost",
+    "RelativePath": "api/Post/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "post",
+        "Type": "BlogDataLibrary.Models.PostForm",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
