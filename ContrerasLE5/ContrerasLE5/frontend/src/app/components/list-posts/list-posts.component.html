@@ -1,0 +1,16 @@
+<h2>Blog Posts</h2>
+
+<div *ngIf="posts.length === 0">
+  <p>No posts found.</p>
+</div>
+
+<div *ngFor="let post of posts">
+  <h3>{{ post.title }}</h3>
+  <p>{{ post.body }}</p>
+  <small>
+    Post ID: {{ post.id }} |
+    User ID: {{ post.userId }} |
+    Date: {{ post.dateCreated }}
+  </small>
+  <hr>
+</div>
