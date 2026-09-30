@@ -1,0 +1,105 @@
+.detail-container {
+  width: 90%;
+  max-width: 800px;
+  margin: 60px auto;
+}
+
+/* Post Card */
+
+.post-card {
+  background-color: #171717;
+  color: white;
+
+  padding: 30px;
+
+  border-radius: 20px;
+
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+
+  transition: 0.4s ease-in-out;
+}
+
+.post-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Post Header */
+
+.post-header h1 {
+  margin-top: 0;
+  margin-bottom: 10px;
+
+  color: #ffffff;
+  font-size: 2em;
+}
+
+.post-info {
+  color: #bdbdbd;
+  font-size: 0.9em;
+
+  margin-bottom: 25px;
+}
+
+.post-info span {
+  color: #ffffff;
+}
+
+.post-info .separator {
+  color: #777;
+  margin: 0 8px;
+}
+
+/* Post Content */
+
+.post-body {
+  background-color: #252525;
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+  box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+}
+
+.post-body p {
+  color: #d3d3d3;
+
+  line-height: 1.7;
+  font-size: 1em;
+
+  margin: 0;
+}
+
+/* Post Footer */
+
+.post-footer {
+  margin-top: 15px;
+
+  color: #999;
+  font-size: 0.8em;
+}
+
+/* Button */
+
+.button-container {
+  margin-top: 25px;
+}
+
+.back-button {
+  padding: 0.7em 1.5em;
+
+  border: none;
+  border-radius: 5px;
+
+  background-color: #252525;
+  color: white;
+
+  cursor: pointer;
+
+  transition: 0.4s ease-in-out;
+}
+
+.back-button:hover {
+  background-color: black;
+}
