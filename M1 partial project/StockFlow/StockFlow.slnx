@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProjectApi/ProjectApi.csproj" />
+  <Project Path="StockFlowDesktop/StockFlowDesktop.csproj" />
+</Solution>

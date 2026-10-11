@@ -1,0 +1,17 @@
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.InventoryForm.resources
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.AssemblyInfo.cs
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\bin\Debug\net10.0-windows\StockFlowDesktop.exe
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\bin\Debug\net10.0-windows\StockFlowDesktop.deps.json
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\bin\Debug\net10.0-windows\StockFlowDesktop.runtimeconfig.json
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\bin\Debug\net10.0-windows\StockFlowDesktop.dll
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\bin\Debug\net10.0-windows\StockFlowDesktop.pdb
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.dll
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\refint\StockFlowDesktop.dll
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.pdb
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlowDesktop.genruntimeconfig.cache
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\ref\StockFlowDesktop.dll
+C:\Users\Paul\source\repos\StockFlow\StockFlowDesktop\obj\Debug\net10.0-windows\StockFlo.5E3228EE.Up2Date
