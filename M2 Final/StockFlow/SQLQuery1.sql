@@ -1,0 +1,7 @@
+﻿CREATE TABLE Items (
+    Code NVARCHAR(50) PRIMARY KEY,
+    Name NVARCHAR(150) NOT NULL,
+    Brand NVARCHAR(100) NOT NULL,
+    UnitPrice DECIMAL(18,2) NOT NULL
+        CHECK (UnitPrice >= 0)
+);
